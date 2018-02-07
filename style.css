@@ -1,6 +1,6 @@
 body {
 	font-family: "Georgia"; 
-	background-color: #5ee0b7; 
+	background-color: #f3ece2;  
 }
 
 
@@ -18,29 +18,28 @@ h2{
 
 }
 
+hr{
+	width: 90%; 
+	border-color: black;
+}
 
 ul{
 	margin-top: -15px; 
 	list-style-type: circle;
 }
 
-hr{
-	width: 90%; 
-	border-color: black;
-}
-
-.exp {
+.section {
 	text-align: left;
 	margin-left:7.5%;
 	margin-right:7.5%;
 
 }
 
-.homep{
+.centre{
 	text-align: center;
 }
 
-.loc{
+.location{
 	float: right;
 	font-weight: bold;
 }
