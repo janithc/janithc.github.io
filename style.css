@@ -1,0 +1,52 @@
+body {
+	font-family: "Georgia"; 
+	background-color: #5ee0b7; 
+}
+
+
+h1{
+	text-align: center;
+	font-variant: small-caps; 
+	font-size: 45px; 
+}
+
+h2{
+	font-size: 24px;
+	margin-left:5%;
+	margin-right:5%;
+	font-variant: small-caps; 
+
+}
+
+
+ul{
+	margin-top: -15px; 
+	list-style-type: circle;
+}
+
+hr{
+	width: 90%; 
+	border-color: black;
+}
+
+.exp {
+	text-align: left;
+	margin-left:7.5%;
+	margin-right:7.5%;
+
+}
+
+.homep{
+	text-align: center;
+}
+
+.loc{
+	float: right;
+	font-weight: bold;
+}
+
+.date{
+	float: right;
+	font-style: italic;
+	margin-top: -15px; 
+}
