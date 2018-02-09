@@ -42,10 +42,12 @@ ul{
 .location{
 	float: right;
 	font-weight: bold;
+	margin-left:10%
 }
 
 .date{
 	float: right;
 	font-style: italic;
 	margin-top: -15px; 
+	margin-left:10%
 }
